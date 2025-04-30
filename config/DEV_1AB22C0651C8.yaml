@@ -1,0 +1,26 @@
+image_width: 2064
+image_height: 1544
+camera_name: DEV_1AB22C0651C8
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [ 816.95388,    1.73906, 1027.12982,
+            0.     ,  822.16248,  774.11432,
+            0.     ,    0.     ,    1.     ]
+distortion_model: equidistant
+distortion_coefficients:
+  rows: 1
+  cols: 4
+  data: [-0.236493, 0.501890, 0.169660, -0.209680]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1., 0., 0.,
+         0., 1., 0.,
+         0., 0., 1.]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [ 816.95388,    1.73906, 1027.12982,    0.     ,
+            0.     ,  822.16248,  774.11432,    0.     ,
+            0.     ,    0.     ,    1.     ,    0.     ]
