@@ -1,3 +1,4 @@
+# Place this file in ~/.ros/camera_info/
 image_width: 2064
 image_height: 1544
 camera_name: DEV_1AB22C0651C8
